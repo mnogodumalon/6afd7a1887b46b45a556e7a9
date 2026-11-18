@@ -1,0 +1,20 @@
+{
+  "pages": {
+    "en": {
+      "Alle offenen Umfragen haben einen finalen Termin.": "All open polls have a final date.",
+      "Auf eine Entscheidung warten: {0}.": "Waiting for a decision: {0}.",
+      "Erste Umfrage anlegen": "Create first poll",
+      "Finalen Termin festlegen": "Set final date",
+      "Ja": "Yes",
+      "Keine Umfrage in dieser Ansicht.": "No polls in this view.",
+      "Lege deine erste Terminumfrage an und teile den Link.": "Create your first date poll and share the link.",
+      "Neue Umfrage": "New poll",
+      "Noch keine Terminvorschläge.": "No date proposals yet.",
+      "Noch keine Umfrage. Lege Titel, Ort und Terminvorschläge an — danach bekommst du einen Link und QR-Code zum Teilen.": "No polls yet. Add a title, location, and date proposals — then you'll get a link and QR code to share.",
+      "Offen": "Open",
+      "Ohne finalen Termin": "No final date",
+      "Vielleicht": "Maybe"
+    }
+  },
+  "v": 1
+}
